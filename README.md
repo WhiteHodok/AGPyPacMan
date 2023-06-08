@@ -1,4 +1,6 @@
 # AGPyPacMan - ENG
+![srdfg](https://github.com/WhiteHodok/AGPyPacMan/assets/39564937/d223fe12-6acb-4fd0-9052-c5ce3c1d4222)
+
 
 ![image](https://github.com/WhiteHodok/AGPyPacMan/assets/39564937/79ece3e8-58e9-40fc-a455-d9b0d864d319)
 
@@ -54,6 +56,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 # AGPyPacMan - RUS
+![srdfg](https://github.com/WhiteHodok/AGPyPacMan/assets/39564937/f154436e-76aa-47da-b099-be145e255914)
+
 
 ![image](https://github.com/WhiteHodok/AGPyPacMan/assets/39564937/79ece3e8-58e9-40fc-a455-d9b0d864d319)
 
