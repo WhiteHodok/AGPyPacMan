@@ -11,4 +11,6 @@ PyPacMan relies on the following libraries:
 
 You can install the required dependencies by running the following command:
 
+'''sh
+
 pip install -r requirements.txt
